@@ -1,4 +1,4 @@
 openkore-java
 =============
 
-Unofficial openkore port for Java
+Unofficial (and unfinished [abandoned?]) openkore port for Java
